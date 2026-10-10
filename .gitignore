@@ -1,0 +1,12 @@
+.gradle/
+build/
+local.properties
+.kotlin/
+
+xcuserdata/
+*.xcuserstate
+iosApp/GeoGroup.xcodeproj/
+iosApp/*.xcworkspace/
+DerivedData/
+
+.DS_Store
